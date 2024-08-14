@@ -7,7 +7,7 @@ This project is a **Product Management System** built using JavaScript, Node.js,
 
 ## Live Demo 
 
-link : https://lnkd.in/eV-tcfBM
+link : https://doniaabdelmoneim.github.io/product/
 
 ## Features
 
