@@ -5,6 +5,10 @@
 
 This project is a **Product Management System** built using JavaScript, Node.js, Express, and MySQL. It allows users to manage products within a database, providing the ability to create, read, update, search, and delete product records. The system is designed to be simple yet effective, offering a REST API interface to handle all CRUD (Create, Read, Update, Delete) operations.
 
+## Live Demo 
+
+link : https://lnkd.in/eV-tcfBM
+
 ## Features
 
 - **Create Products**: Add new products to the database.
@@ -40,6 +44,7 @@ Run the SQL scripts provided in the db/ directory to create the necessary tables
 postman url: https://documenter.getpostman.com/view/33348823/2sA3s6GVVA
 
 ** Database **
+
 onlineDB URL : https://lnkd.in/ewnSwA8m
 
 ## License
